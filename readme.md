@@ -5,7 +5,9 @@ This is a simple website project to show how Github work.
 This is the introduction part.
 
 ## Purpose
+This change will go into staging directory.
 
 ## How to contribute
+This change will remain in local repository.
 
 ## Section
