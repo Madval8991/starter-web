@@ -11,3 +11,6 @@ This change will go into staging directory.
 This change will remain in local repository.
 
 ## Section
+
+### Copyright
+Copyright 2018 @GIT.Training
