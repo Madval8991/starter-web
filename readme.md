@@ -2,7 +2,7 @@
 This is a simple website project to show how Github work.
 
 ## Introduction
-This is the introduction part.
+This is the introduction part. Adding more to the introduction.
 
 ## Purpose
 This change will go into staging directory.
