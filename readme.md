@@ -2,7 +2,7 @@
 This is a simple website project to show how Github work.
 
 ## Introduction
-This is the introduction part. Adding more to the introduction.
+This is the introduction part. Adding more to the introduction. Adding a change from myfeature branch.
 
 ## Purpose
 This change will go into staging directory.
