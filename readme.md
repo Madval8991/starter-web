@@ -14,4 +14,4 @@ This change will remain in local repository.
 I am adding a section here.
 
 ### Copyright
-Copyright 2018 @GIT.Training
+Copyright 2018 @GIT.Training. All rights reserved.
