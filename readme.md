@@ -11,7 +11,7 @@ This change will go into staging directory.
 This change will remain in local repository.
 
 ## Section
-I am adding a section here.
+I am adding a section here. Changes for multiple stashes.
 
 ### Copyright
 Copyright 2018 @GIT.Training. All rights reserved.
